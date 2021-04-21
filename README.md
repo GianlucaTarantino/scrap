@@ -5,4 +5,4 @@ Repository for the code of Scrap.
 
 Proposed for the Beamline4Schools project.
 
-The paper that describes Scrap is available in [this repository](https://github.com/GianlucaTarantino/Scrap/ScrapPaper.pdf).
+The paper that describes Scrap is available in [this repository](https://github.com/GianlucaTarantino/Scrap/blob/master/ScrapPaper.pdf).
