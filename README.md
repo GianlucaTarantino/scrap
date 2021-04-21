@@ -1,4 +1,4 @@
-# Scrap
+# scrap
 ## Scientific Camera for Radiations and Analysis of Particles
 
 Repository for the code of Scrap.
